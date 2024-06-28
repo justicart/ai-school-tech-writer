@@ -75,6 +75,7 @@ def update_readme_and_create_pr(repo, updated_readme, readme_sha):
         branch=new_branch_name,
     )
 
+    # Mindy is the best
     # Create a PR for this document anad stuff
     pr_title = "Update README based on recent changes"
     br_body = "This PR proposes an update to the README based on recent code changes. Please review and merge if appropriate. Thank you."
