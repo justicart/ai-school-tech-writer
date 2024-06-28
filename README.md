@@ -17,7 +17,13 @@ Embrace your creativity and personalize this project to craft a solution that un
 4. **Add The Features You Want**: Let your creativity shine by adding a unique feature that significantly simplifies or enhances your daily routines. Innovate with functionalities that solve problems and improve efficiency or satisfaction in meaningful ways.
 
 ## Privacy and Submission Guidelines
-- **Submission Requirements:** Please submit a link to your public repo with your implementation or a loom video showcasing your work on the [BloomTech AI Platform](app.bloomtech.com). 
+- **Submission Requirements:** Please submit a link to your public repo with your implementation or a loom video showcasing your work on the [BloomTech AI Platform](app.bloomtech.com).
 - **Sensitive Information:** If your implementation involves sensitive information, you are not required to submit a public repository. Instead, a detailed review of your project through a Loom video is acceptable, where you can demonstrate the functionality and discuss the technologies used without exposing confidential data.
 
 ---
+
+**Updated Requirements:**
+- Removed `edenscm==0.2.20230523.post92610+f12b7eee`, `meson==1.1.1`, `protobuf==4.24.3`, `safetensors==0.3.3`, and `six==1.16.0` from `requirements.txt`.
+- Updated requirements.
+
+Considering the code changes made to the `requirements.txt` file and the commit message provided, I have updated the README to reflect the removal of specific dependencies and the general mention of updated requirements.
